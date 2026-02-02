@@ -1,0 +1,4 @@
+node_modules/
+frontend/crud-example/
+.env
+dist/
